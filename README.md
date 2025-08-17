@@ -64,7 +64,7 @@ This project is a mobile application developed to help university students easil
 - Submit a pull request
 
 ## 📜 License
-- This project is licensed under the MIT License.
+- This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-aoz.demir%40outlook.com-blue?logo=mail&logoColor=white)](mailto:aoz.demir@outlook.com)
