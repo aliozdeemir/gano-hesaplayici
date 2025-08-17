@@ -19,12 +19,16 @@ Bu proje, üniversite öğrencilerinin Genel Ağırlıklı Not Ortalamasını (G
 - İngilizce dil desteği eklenecek
   
 
-## Ekran Görüntüleri
+## 📸 Telefon Ekran Görüntüleri
 <p align="center">
   <img src="screenshots/phone_1.png" width="400" alt="Home screen"/>
   <img src="screenshots/phone_2.png" width="400" alt="Add course"/>
   <img src="screenshots/phone_3.png" width="400" alt="Add course"/>
   <img src="screenshots/phone_4.png" width="400" alt="Add course"/>
+</p>
+
+## 📸 Tablet Ekran Görüntüleri
+<p align="center">
   <img src="screenshots/tablet_1.jpg" width="420" alt="Tablet layout"/>
   <img src="screenshots/tablet_2.jpg" width="420" alt="Tablet layout"/>
   <img src="screenshots/tablet_3.jpg" width="420" alt="Tablet layout"/>
