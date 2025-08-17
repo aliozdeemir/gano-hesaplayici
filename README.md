@@ -28,12 +28,12 @@ This project is a mobile application developed to help university students easil
 
 ## 📸 Tablet Screenshots
 <p align="center">
-  <img src="screenshots/tablet_1.jpg" width="420" alt="Tablet layout"/>
-  <img src="screenshots/tablet_2.jpg" width="420" alt="Tablet layout"/>
-  <img src="screenshots/tablet_3.jpg" width="420" alt="Tablet layout"/>
-  <img src="screenshots/tablet_4.jpg" width="420" alt="Tablet layout"/>
-  <img src="screenshots/tablet_5.jpg" width="420" alt="Tablet layout"/>
-  <img src="screenshots/tablet_6.jpg" width="420" alt="Tablet layout"/>
+  <img src="screenshots/tablet_1.jpg" width="400" alt="Tablet layout"/>
+  <img src="screenshots/tablet_2.jpg" width="400" alt="Tablet layout"/>
+  <img src="screenshots/tablet_3.jpg" width="400" alt="Tablet layout"/>
+  <img src="screenshots/tablet_4.jpg" width="400" alt="Tablet layout"/>
+  <img src="screenshots/tablet_5.jpg" width="400" alt="Tablet layout"/>
+  <img src="screenshots/tablet_6.jpg" width="400" alt="Tablet layout"/>
 </p>
 
 ## 🚀 Installation
