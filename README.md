@@ -1,16 +1,34 @@
-# my_dynamic_note_app
+﻿# GANO Calculator (Flutter)
+[🇹🇷 Türkçe](README.tr.md)
 
-A new Flutter project.
+A simple, offline **GPA (GANO)** calculator for university students. Pick a letter grade (AA–FF), set credits, add courses, and see your **credit-weighted** GPA instantly.
+
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-black?logo=googleplay)](<PLAY_STORE_LINK>)
+![Flutter](https://img.shields.io/badge/Flutter-stable-blue?logo=flutter)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+## Features
+- Letter → point mapping *(AA=4.0 … FF=0.0)*
+- **Credit-weighted** GPA calculation
+- Add/remove courses, total credits & course count
+- Phone & tablet friendly UI, **offline**
+- Optional: Dark theme & dynamic color (Android 12+)
+
+## Screenshots
+<p align="center">
+  <img src="screenshots/phone_1.png" width="1344" alt="Home screen"/>
+  <img src="screenshots/phone_2.png" width="1344" alt="Add course"/>
+  <img src="screenshots/phone_3.png" width="1344" alt="Add course"/>
+  <img src="screenshots/phone_4.png" width="1344" alt="Add course"/>
+  <img src="screenshots/tablet_1.jpg" width="2200" alt="Tablet layout"/>
+  <img src="screenshots/tablet_2.jpg" width="2200" alt="Tablet layout"/>
+  <img src="screenshots/tablet_3.jpg" width="2200" alt="Tablet layout"/>
+  <img src="screenshots/tablet_4.jpg" width="2200" alt="Tablet layout"/>
+  <img src="screenshots/tablet_5.jpg" width="2200" alt="Tablet layout"/>
+  <img src="screenshots/tablet_6.jpg" width="2200" alt="Tablet layout"/>
+</p>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`ash
+flutter pub get
+flutter run
