@@ -29,6 +29,6 @@ A simple, offline **GPA (GANO)** calculator for university students. Pick a lett
 </p>
 
 ## Getting Started
-`ash
+Bash
 flutter pub get
 flutter run
