@@ -3,4 +3,8 @@ ios/** linguist-vendored
 android/** linguist-vendored
 web/** linguist-vendored
 test/** linguist-vendored
+*.cmake linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.html linguist-vendored
 
