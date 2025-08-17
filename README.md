@@ -3,7 +3,7 @@
 
 A simple, offline **GPA (GANO)** calculator for university students. Pick a letter grade (AA–FF), set credits, add courses, and see your **credit-weighted** GPA instantly.
 
-[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-black?logo=googleplay)](<PLAY_STORE_LINK>)
+
 ![Flutter](https://img.shields.io/badge/Flutter-stable-blue?logo=flutter)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
