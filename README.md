@@ -16,10 +16,10 @@ A simple, offline **GPA (GANO)** calculator for university students. Pick a lett
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/phone_1.png" width="260" alt="Home screen"/>
-  <img src="screenshots/phone_2.png" width="260" alt="Add course"/>
-  <img src="screenshots/phone_3.png" width="260" alt="Add course"/>
-  <img src="screenshots/phone_4.png" width="260" alt="Add course"/>
+  <img src="screenshots/phone_1.png" width="400" alt="Home screen"/>
+  <img src="screenshots/phone_2.png" width="400" alt="Add course"/>
+  <img src="screenshots/phone_3.png" width="400" alt="Add course"/>
+  <img src="screenshots/phone_4.png" width="400" alt="Add course"/>
   <img src="screenshots/tablet_1.jpg" width="420" alt="Tablet layout"/>
   <img src="screenshots/tablet_2.jpg" width="420" alt="Tablet layout"/>
   <img src="screenshots/tablet_3.jpg" width="420" alt="Tablet layout"/>
